@@ -8,7 +8,6 @@ Make sure RabbitMQ is installed and running locally.
 
 Clone this repository:
 git clone https://github.com/ozgeebasknn/rabbitmq-project.git
-cd rabbitmq-project
 
 Install the dependencies:
 npm install amqplib
