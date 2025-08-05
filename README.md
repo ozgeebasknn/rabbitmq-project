@@ -12,7 +12,7 @@ Install the dependencies:
 npm install amqplib
 
 Start the publisher in one terminal:
-node publisher.js
+npm run publisher.js
 
 Start the consumer in another terminal:
-node consumer.js
+npm run consumer.js
