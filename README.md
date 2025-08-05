@@ -6,8 +6,6 @@ The main goal of this project is to help understand the core working mechanism o
 🚀 Installation & Run
 Make sure RabbitMQ is installed and running locally.
 
-Clone this repository:
-git clone https://github.com/ozgeebasknn/rabbitmq-project.git
 
 Install the dependencies:
 npm install amqplib
